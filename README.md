@@ -1,7 +1,7 @@
 # NEWave
 * Wave animation
 
-![](https://github.com/XieXieZhongxi/CATransition/blob/master/screenshot/UIViewController.gif)
+![example](https://github.com/XieXieZhongxi/NEWave/blob/master/screenshot/example.gif)
 
 
 ###Sample Code
