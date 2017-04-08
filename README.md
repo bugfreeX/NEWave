@@ -4,7 +4,7 @@
 ![example](https://github.com/XieXieZhongxi/NEWave/blob/master/screenshot/example.gif)
 
 
-###Sample Code
+### Sample Code
 * circle
 ```objective-c
 self.circleView.layer.cornerRadius = CGRectGetHeight(self.circle1View.bounds) / 2;
